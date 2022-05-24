@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="Plantilla_.asm" />
+    <MASM Include="P1_Buscar_Menor_.asm" />
+    <MASM Include="P2_Imprimir_.asm" />
+    <MASM Include="P3_Pares_.asm" />
+    <MASM Include="P5_SumaElementos_M_2X2_.asm" />
+    <MASM Include="P4_.asm" />
+    <MASM Include="P6_Suma_Por_Fila_.asm" />
+    <MASM Include="P7_Valor_Mas_grande_M_.asm" />
+    <MASM Include="P8_Valor_Mas_Pequeño_M_.asm" />
+    <MASM Include="P9_Contar_Pares_M_.asm" />
+    <MASM Include="P10_Complemento_Por_Elemento_M_.asm" />
+    <MASM Include="P11_Numero_De_FIla_Elemento_Mas_Grande_M_.asm" />
+    <MASM Include="P12_Determinante_M_2X2_.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LibreriaMacros.inc" />
+  </ItemGroup>
+</Project>
